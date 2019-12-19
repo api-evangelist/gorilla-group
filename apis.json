@@ -1,0 +1,64 @@
+{
+    "name": "Gorilla Group",
+    "description": "Gorilla Group is the commerce experience agency. We propel digital commerce growth by offering strategy, creative, technology, customer experience, managed services, and hosting services to drive client results.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3629-gorilla-group.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gorilla-group\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gorilla Group",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3629-gorilla-group.jpg",
+            "humanURL": "http:\/\/www.gorillagroup.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gorilla-group-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gorilla-group"
+        },
+        {
+            "type": "Email",
+            "url": "careers@gorillagroup.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@gorillagroup.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@gorillagroup.com"
+        },
+        {
+            "type": "Email",
+            "url": "jfinnegan@gorillagroup.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@gorillagroup.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GorillaCommerce"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gorillagroup.com"
+        }
+    ]
+}
